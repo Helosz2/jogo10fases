@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fundo ceu azul_0: 1348520764332612127
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
