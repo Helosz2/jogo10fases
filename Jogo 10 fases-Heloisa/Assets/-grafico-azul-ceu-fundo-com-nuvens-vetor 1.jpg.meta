@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      -grafico-azul-ceu-fundo-com-nuvens-vetor 1_0: -2507540410184067946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
