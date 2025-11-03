@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      desertoo_0: 3737078003928357546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

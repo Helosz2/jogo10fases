@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f15b8dac3cea2ad48be70e6a691b6c09
+guid: c3ca51ce1d914994c8f8cb52686440c4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7542377369264871019
-    second: areia_0
+      213: 8398783283700238609
+    second: fundo inverno_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: areia_0
+      name: fundo inverno_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1023
-        height: 777
+        width: 447
+        height: 280
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b665af09148eba860800000000000000
-      internalID: 7542377369264871019
+      spriteID: 119017ad5e87e8470800000000000000
+      internalID: 8398783283700238609
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      areia_0: 7542377369264871019
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
