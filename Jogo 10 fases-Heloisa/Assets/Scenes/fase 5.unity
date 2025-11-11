@@ -640,7 +640,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.3333333, y: 0, z: 0}
+  m_ChunkCullingBounds: {x: 0.40909094, y: 0, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -1049,7 +1049,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.3333333, y: 0.3333333, z: 0}
+  m_ChunkCullingBounds: {x: 0.40909094, y: 0.40909094, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -12035,12 +12035,24 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.7043552
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.7043552
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.34087107
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 79.75512
+      value: 80.8029
       objectReference: {fileID: 0}
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.11
+      value: 0.6029
       objectReference: {fileID: 0}
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -12092,12 +12104,24 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.3825
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.3825
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.4765
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 37.601482
+      value: 35.8
       objectReference: {fileID: 0}
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.02960968
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 6673409698523067093, guid: bd9bc8c544487ba4cb7c5851001ce06a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -16639,6 +16663,14 @@ PrefabInstance:
     - target: {fileID: 2963813889739047425, guid: b30563e4ed465ce4d955657221d49079, type: 3}
       propertyPath: m_Name
       value: portal
+      objectReference: {fileID: 0}
+    - target: {fileID: 2998383126868671489, guid: b30563e4ed465ce4d955657221d49079, type: 3}
+      propertyPath: m_ChunkCullingBounds.x
+      value: 0.40909094
+      objectReference: {fileID: 0}
+    - target: {fileID: 2998383126868671489, guid: b30563e4ed465ce4d955657221d49079, type: 3}
+      propertyPath: m_ChunkCullingBounds.y
+      value: 0.40909094
       objectReference: {fileID: 0}
     - target: {fileID: 5760512760605962068, guid: b30563e4ed465ce4d955657221d49079, type: 3}
       propertyPath: nomeDaCena

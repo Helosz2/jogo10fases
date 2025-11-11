@@ -573,7 +573,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.3333333, y: 0.3, z: 0}
+  m_ChunkCullingBounds: {x: 0.40909094, y: 0.3, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -12705,7 +12705,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: -1
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.3333333, y: 0.3333333, z: 0}
+  m_ChunkCullingBounds: {x: 0.40909094, y: 0.40909094, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -13319,6 +13319,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: portal
       objectReference: {fileID: 0}
+    - target: {fileID: 2998383126868671489, guid: b30563e4ed465ce4d955657221d49079, type: 3}
+      propertyPath: m_ChunkCullingBounds.x
+      value: 0.40909094
+      objectReference: {fileID: 0}
+    - target: {fileID: 2998383126868671489, guid: b30563e4ed465ce4d955657221d49079, type: 3}
+      propertyPath: m_ChunkCullingBounds.y
+      value: 0.40909094
+      objectReference: {fileID: 0}
     - target: {fileID: 5760512760605962068, guid: b30563e4ed465ce4d955657221d49079, type: 3}
       propertyPath: nomeDaCena
       value: fase 8
@@ -13341,12 +13349,24 @@ PrefabInstance:
       value: inimigo amarelo bloco
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.566
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.261
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 117.403625
+      value: 120.35
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.33609438
+      value: -0.08
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.z

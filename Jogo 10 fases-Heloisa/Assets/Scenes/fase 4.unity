@@ -6680,7 +6680,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.3333333, y: 0.3333333, z: 0}
+  m_ChunkCullingBounds: {x: 0.40909094, y: 0.40909094, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -6917,7 +6917,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 0.16666669, y: 0.3333333, z: 0}
+  m_ChunkCullingBounds: {x: 0.22727275, y: 0.40909094, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -7416,12 +7416,24 @@ PrefabInstance:
       value: inimigo amarelo bloco
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.7196
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.7196
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.2866
+      objectReference: {fileID: 0}
+    - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.37
+      value: 18.65
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.49
+      value: -2.37
       objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalPosition.z
