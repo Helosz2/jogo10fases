@@ -7796,6 +7796,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: inimigo amarelo bloco
       objectReference: {fileID: 0}
+    - target: {fileID: 3301563773961905670, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_Size.x
+      value: 0.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 3301563773961905670, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
+      propertyPath: m_Size.y
+      value: 0.83
+      objectReference: {fileID: 0}
     - target: {fileID: 5613371631629338481, guid: 6bd250f7eaa06b346a451781c279bd19, type: 3}
       propertyPath: m_LocalScale.x
       value: 1.7196
