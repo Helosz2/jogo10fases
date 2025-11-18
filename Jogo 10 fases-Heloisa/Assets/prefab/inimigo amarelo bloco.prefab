@@ -32,7 +32,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 18.37, y: -2.49, z: 0}
-  m_LocalScale: {x: 6, y: 6, z: 1}
+  m_LocalScale: {x: 1.2618029, y: 1.2618029, z: 0.21030048}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -130,13 +130,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.2, y: 0.2}
+    oldSize: {x: 1, y: 1}
     newSize: {x: 0.2, y: 0.2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.2, y: 0.2}
+  m_Size: {x: 0.79, y: 0.75}
   m_EdgeRadius: 0
 --- !u!50 &860128266138786294
 Rigidbody2D:
@@ -199,8 +199,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f2473157f40c0849ab0cf7c6a3486e3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  distanciaDeVisao: 8
-  velocidade: 4
+  distanciaDeVisao: 2
+  velocidade: 0
 --- !u!114 &8992897552725230924
 MonoBehaviour:
   m_ObjectHideFlags: 0
